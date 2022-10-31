@@ -13,13 +13,13 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 ## Scavenger Hunt
 
-[ ] Video of a scare 
-[ ] Funny gravestone
-[ ] Baby's first Halloween
-[ ] Dressed up pet
-[ ] A CRAN package in Halloween form
-[ ] Computer or data related costume
-[ ] Computer or data related Halloween joke 
-[ ] Geeky carved pumpkin
-[ ] Your new idea
-[ ] Your other new idea
+- [ ] Video of a scare 
+- [ ] Funny gravestone
+- [ ] Baby's first Halloween
+- [ ] Dressed up pet
+- [ ] A CRAN package in Halloween form
+- [ ] Computer or data related costume
+- [ ] Computer or data related Halloween joke 
+- [ ] Geeky carved pumpkin
+- [ ] Your new idea
+- [ ] Your other new idea
